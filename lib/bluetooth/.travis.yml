@@ -1,0 +1,14 @@
+language: cpp
+
+before_install:
+  - sudo apt-get install libbluetooth-dev cmake gcc
+
+compiler:
+  - gcc
+
+before_script:
+  - mkdir build
+  - cd build
+  - cmake ..
+
+script: make

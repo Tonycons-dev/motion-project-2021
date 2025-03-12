@@ -1,0 +1,7 @@
+<str> gameWindowTitle : Ceru
+<int> gameWindowSizeX : 1920
+<int> gameWindowSizeY : 1080
+<int> gameTargetFrame : 60
+<int> gameFullscreen  : 0
+<int> doAntialiasing  : 0
+<int> disableSerPort  : 1

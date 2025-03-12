@@ -1,0 +1,1 @@
+target_sources(Anim PRIVATE NumberTypes.hpp BasicTypes.hpp)

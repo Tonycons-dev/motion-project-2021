@@ -1,0 +1,16 @@
+build/**
+*.log
+*.ipch
+*.db-shm
+*.db-wal
+*.opendb
+*.db
+*.sqlite
+.vs/Anim/v16/.suo
+*.obj
+*.cmake
+*.rule
+*.tlog
+*.stamp
+cmake-build-relwithdebinfo-toolchain-gcc/**
+*.idea
