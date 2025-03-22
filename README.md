@@ -22,5 +22,4 @@ Libraries used:
 * [raylib](https://github.com/raysan5/raylib): Graphics rendering for the game
 * [entt](https://github.com/skypjack/entt): ECS for use in the game
 
-## Demo ##
 ![What it looks like](https://github.com/Tonycons-dev/motion-project-2021/blob/main/photo.png)  
