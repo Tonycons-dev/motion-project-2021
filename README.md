@@ -14,8 +14,7 @@ Hardware:
 * [Teensy 4.1 Development Board](https://www.pjrc.com/teensy/) A tiny, cheap, powerful board compatible with the Arduino toolchain.
 * MPU 6050 Motion Sensor
 
-The other components of the controller came from a starter kit I cannot recall the name of.
-Unfortunately, its remains are incomplete, and a diagram cannot be provided at this time.
+The other components of the controller came from a Freenove starter kit.
 
 Libraries used:
 * Arduino standard library
